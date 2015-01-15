@@ -1,0 +1,6 @@
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication3\obj\Debug\05. PrintMyName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication4\obj\Debug\06. Print Numbers.csprojResolveAssemblyReference.cache
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

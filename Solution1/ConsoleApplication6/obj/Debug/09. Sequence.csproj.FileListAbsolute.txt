@@ -1,0 +1,6 @@
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+c:\users\vicho\documents\visual studio 2012\Projects\Solution1\ConsoleApplication6\obj\Debug\09. Sequence.csprojResolveAssemblyReference.cache
